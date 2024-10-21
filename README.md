@@ -21,10 +21,10 @@ For Data cleaning and data manipulation, I used `snowflake` tool where I transfo
 I used `Power BI` tool for `data visualization` where I have used various charts like `cards for numbers`, `line chart for trends`, `bar chart for finding top n values` and many more.
 
 #### **`Diagram of the workflow :`**
-![alt text](<Screenshot 2024-10-21 180221.png>)
+![alt text](Image/workflow.png)
 
 #### ** `ER diagram of datasets`:
-![alt text](image.png)
+![alt text](Image/ER.png)
 
 ## **USE MY REPORT [HERE](https://app.powerbi.com/view?r=eyJrIjoiZjI2NWUwMWMtYjY0YS00MTkxLWFkZjMtZWMwM2I3NGRkNDRlIiwidCI6ImY4N2I2ZjgyLTIxNTUtNDc5Zi1iYThiLTRkNTdkN2Q2OWUwZiJ9)**
 
