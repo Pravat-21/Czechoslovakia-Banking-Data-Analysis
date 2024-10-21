@@ -25,3 +25,10 @@ I used `Power BI` tool for `data visualization` where I have used various charts
 
 #### ** `ER diagram of datasets`:
 ![alt text](image.png)
+
+## **Some sample snapshot of my work :**
+![alt text](Image/ss1.png)
+
+![alt text](Image/ss2.png)
+
+![alt text](Image/ss3.png)
