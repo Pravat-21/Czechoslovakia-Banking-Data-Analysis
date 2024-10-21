@@ -28,7 +28,7 @@ I used `Power BI` tool for `data visualization` where I have used various charts
 
 ## **USE MY REPORT [HERE](https://app.powerbi.com/view?r=eyJrIjoiZjI2NWUwMWMtYjY0YS00MTkxLWFkZjMtZWMwM2I3NGRkNDRlIiwidCI6ImY4N2I2ZjgyLTIxNTUtNDc5Zi1iYThiLTRkNTdkN2Q2OWUwZiJ9)**
 
-## **Some sample snapshot of my work :**
+## **Some sample snapshots of my work :**
 ![alt text](Image/ss1.png)
 
 ![alt text](Image/ss2.png)
